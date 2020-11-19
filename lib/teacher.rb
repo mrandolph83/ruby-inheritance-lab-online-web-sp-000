@@ -8,5 +8,5 @@ class Teacher < User
     # like an instance variable
     KNOWLEDGE.sample
   end
-  
+
 end
